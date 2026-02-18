@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2024.1/examples
+T_opt
+!s110 1771268207
+VAaDAK`Z8I>SN`EV?YjjML0
+04 11 4 work and_gate_tb fast 0
+=1-84ba5988c24f-6993686e-152-27dc
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vand_gate
+2C:/Users/User/Desktop/DLD Lab/and_gate.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1771268162
+!i10b 1
+!s100 5Kb?Y3^oXMP>b1DlHHhXJ2
+I;B1]5;zeWE3M3W7O>6fcB3
+S1
+R1
+w1771267547
+8C:/Users/User/Desktop/DLD Lab/and_gate.sv
+FC:/Users/User/Desktop/DLD Lab/and_gate.sv
+!i122 0
+L0 1 7
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2024.1;79
+r1
+!s85 0
+31
+!s108 1771268162.000000
+!s107 C:/Users/User/Desktop/DLD Lab/and_gate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/User/Desktop/DLD Lab/and_gate.sv|
+!i113 0
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vand_gate_tb
+2C:/Users/User/Desktop/DLD Lab/and-gate-tb.sv
+R3
+!s110 1771268163
+!i10b 1
+!s100 C<kYlO0oPkZ>A0`>J6RZI2
+Ii<2TnWVCX:YiN^Ac2I<Jl1
+S1
+R1
+w1771267573
+8C:/Users/User/Desktop/DLD Lab/and-gate-tb.sv
+FC:/Users/User/Desktop/DLD Lab/and-gate-tb.sv
+!i122 1
+L0 1 29
+R4
+R5
+r1
+!s85 0
+31
+!s108 1771268163.000000
+!s107 C:/Users/User/Desktop/DLD Lab/and-gate-tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/User/Desktop/DLD Lab/and-gate-tb.sv|
+!i113 0
+R6
+R2
